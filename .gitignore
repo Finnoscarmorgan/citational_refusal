@@ -1,0 +1,5 @@
+data/
+results/
+src/
+environment.yml
+.DS_Store
