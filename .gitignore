@@ -3,3 +3,4 @@ results/
 src/
 environment.yml
 .DS_Store
+outputs/
