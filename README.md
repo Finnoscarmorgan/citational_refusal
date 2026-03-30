@@ -29,3 +29,5 @@ Beyond Capricornia: Ambiguous Promise in Alexis Wright
 Type
 conference-presentation
 Document classification indicating delivery format rather than journal publication.
+
+Other formats include: book-chapter, book-review, conference-presentation. 
