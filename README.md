@@ -50,68 +50,38 @@ YYYY-MM-DD__author-surname-given__source__title__type.pdf
 
 ---
 
-## Parsed Metadata Fields
+### Parsed Metadata Fields
 
-### Date
+#### Date
 **2026-02-21**  
 Publication or delivery date in ISO 8601 format.
 
-### Author
+#### Author
 **sharrad-paul**  
 Surname–given format:
 - Surname: Sharrad  
 - Given name: Paul  
 
-### Source
+#### Source
 **european-association-for-commonwealth-literature**  
-Hosting organisation, venue, or publication, expressed in slug form.
+Hosting organisation, venue, or publication (journal-article or book-section), expressed in slug form.
 
-### Title
+#### Title
 **beyond-capricornia-ambiguous-promise-in-alexis-wright**  
 Full title in slug form. Reconstructed:
 
 *Beyond Capricornia: Ambiguous Promise in Alexis Wright*
 
-### Type
+#### Type
 **conference-presentation**  
 Indicates format of dissemination rather than publication type.
 
 ---
 
-## Supported File Types
+### Supported File Types
 
 - book-chapter  
 - book-review  
 - conference-presentation  
 - journal-article  
 
----
-
-YYYY-MM-DD__author-surname-given__source__title__type.pdf
-
-for example: 
-2026-02-21__sharrad-paul__european-association-for-commonwealth-literature__beyond-capricornia-ambiguous-promise-in-alexis-wright__conference-presentation.pdf
-
-is
-
-Parsed Metadata Fields
-Date
-2026-02-21
-Publication or delivery date, expressed in ISO 8601 format.
-Author
-sharrad-paul
-Author name in surname–given order:
-Surname: Sharrad
-Given name: Paul
-Source
-european-association-for-commonwealth-literature
-Hosting organisation or venue, rendered in slug form.
-Title
-beyond-capricornia-ambiguous-promise-in-alexis-wright
-Full work title in slug form. Reconstructed in standard orthography:
-Beyond Capricornia: Ambiguous Promise in Alexis Wright
-Type
-conference-presentation
-Document classification indicating delivery format rather than journal publication.
-
-Other formats include: book-chapter, book-review, conference-presentation. 
