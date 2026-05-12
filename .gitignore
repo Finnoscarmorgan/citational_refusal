@@ -3,4 +3,16 @@ results/
 src/
 environment.yml
 .DS_Store
+notebooks/01_basic_citational_analysis.ipynb
+outputs/dominant_figures_by_document.csv
+outputs/most_common_content_words.png
+outputs/person_frequency_by_document.csv
+outputs/person_spread_attention_by_document.csv
+outputs/TF_IDF_Framing.png
+outputs/top_people_consolidated.csv
+outputs/top_people_filtered.csv
+outputs/top_people_raw.csv
+notebooks/revised_textual_attention
+outputs/ignore
 outputs/
+
